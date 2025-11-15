@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 i am Abhidev<br>🔭 I’m currently working on DevOps & AWS<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Personal Projects<br>🌱 I’m currently learning about Data Science Projects<br>⚡ Fun fact I am Working on Multiple Projects<br>📫 How to reach me: kdabhidev@gmail.com
+Hi there 👋 i am Abhidev<br>🔭 I’m currently working on DevOps & AWS<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Personal Projects<br>🌱 I’m currently learning about DevOps and Networking Projects<br>⚡ Fun fact I am Working on Multiple Projects<br>📫 How to reach me: kdabhidev@gmail.com
 
 
 ## 🌐 Socials:
