@@ -81,43 +81,18 @@ Email: kdabhidev@gmail.com
 ## 🚀 Projects
 
 ### CI CD Based Web Application Deployment
-- Designed and implemented a CI CD pipeline for a Java web application using Jenkins and GitHub.
-- Created a Jenkinsfile pipeline for automated build, code quality analysis, container image creation, and deployment.
-- Configured GitHub Webhooks to trigger automated builds on each code commit.
-- Automated build and packaging using Apache Maven.
-- Performed code quality analysis using SonarQube.
-- Managed build artifacts using Sonatype Nexus Repository Manager.
-- Built Docker container images for the application.
-- Deployed the containerized application on Amazon EC2 running Linux with Apache Tomcat.
-
 Tools: Jenkins, GitHub, Maven, SonarQube, Nexus, Docker, AWS EC2, Apache Tomcat
 
 
 ### EC2 Monitoring and Alert System
-- Implemented monitoring for EC2 instances using Amazon CloudWatch.
-- Monitored CPU utilization and network traffic metrics.
-- Created CloudWatch alarms based on defined threshold values.
-- Configured Amazon SNS to send automated email alerts.
-- Generated test load on the instance to verify alarm functionality.
-
 Tools: AWS EC2, CloudWatch, Amazon SNS
 
 
 ### Serverless File Processing System
-- Built a serverless file processing workflow using Amazon S3 and AWS Lambda.
-- Configured S3 event triggers to invoke Lambda functions when new files upload.
-- Implemented processing logic inside the Lambda function to handle incoming files.
-- Used CloudWatch Logs to monitor execution and troubleshoot errors.
-
 Tools: AWS S3, AWS Lambda, CloudWatch
 
 
 ### Linux System Monitoring Tool
-- Developed Bash scripts to monitor system performance metrics.
-- Tracked CPU usage, memory usage, and disk utilization.
-- Displayed system resource statistics in real time using Linux commands.
-- Used cron jobs to automate monitoring tasks.
-
 Tools: Linux, Bash, Cron
 
 ### ✍️ Random Dev Quote 
