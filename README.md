@@ -78,22 +78,6 @@ Email: kdabhidev@gmail.com
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 
-## 🚀 Projects
-
-### CI CD Based Web Application Deployment
-Tools: Jenkins, GitHub, Maven, SonarQube, Nexus, Docker, AWS EC2, Apache Tomcat
-
-
-### EC2 Monitoring and Alert System
-Tools: AWS EC2, CloudWatch, Amazon SNS
-
-
-### Serverless File Processing System
-Tools: AWS S3, AWS Lambda, CloudWatch
-
-
-### Linux System Monitoring Tool
-Tools: Linux, Bash, Cron
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
